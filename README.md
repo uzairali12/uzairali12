@@ -5,7 +5,9 @@
 </p>
 
 <h1 align="center">👋 Welcome to My Digital Realm</h1>
-
+<p align="center">
+  <img src="https://github.githubassets.com/images/mona-loading-default.gif" alt="GitHub Mona Loading" width="80" />
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7E53C&center=true&vCenter=true&width=600&lines=Web+Developer+%7C+Graphic+Designer;Full+Stack+Dreamer+%7C+UI%2FUX+Enthusiast;Photo%2FVideo+Editor+%7C+Content+Creator;Clean+Design+%2B+Clean+Code+Believer;Open+Source+Contributor+%7C+Always+Learning" alt="Typing SVG" />
 </p>
